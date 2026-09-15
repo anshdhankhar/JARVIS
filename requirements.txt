@@ -1,0 +1,6 @@
+SpeechRecognition
+pvporcupine
+PyAudio
+torch
+tokenizers
+requests
