@@ -1,0 +1,1587 @@
+{"instruction": "System, mute the volume", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Current time", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Jarvis decrease volume", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Greetings", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Please greetings immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, goodbye", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Please tell me the date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis who are you", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "System, what is the date now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis switch to light mode please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Could you unmute audio for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Could you hi jarvis for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis next track immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis previous track now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Can you what color is the sky", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, open youtube for me", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Jarvis who programmed you", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "I want you to check raspberry pi sensors", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Maximum volume immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Do you have the time", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Kindly open wikipedia now", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "System, open google for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis, are you there jarvis", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Hey jarvis, goodbye now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "I want you to switch to dark mode immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Kindly what color is the sky for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you hello please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Could you sleep system now", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you previous track", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Hey jarvis, pause music now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Hey jarvis, wake up now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Please min volume immediately", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Hey jarvis, max volume for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Can you battery percentage", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Please decrease volume for me", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Please shut down please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Jarvis, play the next one now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Get environment data now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Can you play media now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Could you volume 100", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis, decrease volume immediately", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Hey jarvis, maximum volume please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Please play media please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Hey jarvis, who created you", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "I want you to secure the mac please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "I want you to tell me about yourself now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "System, check battery for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Hey jarvis, stop music now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis what is the date now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Please secure the mac for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Please turn the sound on immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "I want you to turn on dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Could you full volume now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis open wikipedia for me", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Kindly read my pulse now", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "System, how do i cook pasta", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please quit immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, turn it down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Kindly you are wrong for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to what day is it immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "System, volume 100 immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Please silence now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Kindly wake up", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Could you check raspberry pi sensors now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Can you dark mode on now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Can you hi jarvis immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Kindly hello now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis current time for me", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Mute the volume immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "I want you to tell me a joke please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you pause media for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Hey jarvis, louder please", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "I want you to pause media now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly power level please", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Could you lock the screen now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis tell me a joke please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "What is the temperature", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Can you do you have the time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Please hi jarvis", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, search wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Can you open wikipedia please", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "I want you to switch to light mode please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis, play media now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis turn the sound on now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Please full volume now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis, pause music", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly air quality please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis, do you like pizza now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to current date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Please mute the sound now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis, unmute volume", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis, how am i doing physically for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Jarvis tell me a joke now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you tell me the date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Take a screenshot please", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Kindly light mode on for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis identify yourself immediately", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Please check battery now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "I want you to hi jarvis please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, volume 100 for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Could you dark mode on please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Can you save the screen", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Could you go back a song please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Kindly room temperature please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Hey jarvis, what is the temperature", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Kindly turn it up immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "How do i cook pasta for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you turn it up please", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Take screenshot for me", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "I want you to increase volume immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Hey jarvis, put the computer to sleep please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Launch google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Can you sleep mac now", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "System, what is my battery now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Could you minimum volume immediately", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis, what time is it immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Could you how am i doing physically for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Jarvis, read my pulse immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Disable dark mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "I want you to i am angry please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, mute volume for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Please clean the trash for me", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Can you save the screen please", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "System, good morning please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Put the computer to sleep please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "System, turn it all the way up immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Can you turn it down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Launch wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Jarvis, play last track", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Hey jarvis, check raspberry pi sensors now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Kindly what is your name", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Play music for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly battery percentage for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Please capture screen please", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Hey jarvis, turn it down please", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis take a screenshot immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Dark mode on immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Jarvis who programmed you immediately", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "I want you to switch to dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Could you maximum volume immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "I want you to pause media for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "What is the date for me", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis, play last track for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Please tell me the time now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Can you do you like pizza for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you tell me about yourself for me", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "System, lock computer now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "System, what color is the sky please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, are you there jarvis for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, wake up please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, minimum volume please", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Could you take screenshot for me", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Could you secure the mac now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Kindly tell me the date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Empty trash please", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Kindly unmute volume please", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Please take screenshot immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Can you empty trash", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Kindly turn it all the way up immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "I want you to this is bad please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Get environment data please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "I want you to greetings now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Hey jarvis, goodbye", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Hey jarvis, who is the president", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to put the computer to sleep now", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Jarvis, min volume immediately", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Please get environment data immediately", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Can you go to sleep please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, sleep system", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Kindly who created you", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Jarvis, current date", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Could you unmute audio immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "System, exit system immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Please volume down", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "I want you to blah blah blah immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to mute audio immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "System, next song please", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "System, launch google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis, quieter", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "System, switch to dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Hey jarvis, search wikipedia please", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Please power level", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Please previous song for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Hey jarvis, put the computer to sleep for me", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you turn the sound on now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis, you are wrong please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis check raspberry pi sensors now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Please what is the temperature now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis, lock mac immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Hey jarvis, quieter now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Mute volume immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis lock the screen now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Hey jarvis, i am angry please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly launch youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Please turn it all the way up immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Please identify yourself for me", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Kindly quit for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "I want you to volume down to zero", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Could you what day is it now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Please blah blah blah now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Do you have the time for me", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Could you what is your name", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Please open google now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Kindly turn on dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Hey jarvis, play last track", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Could you play media immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Hey jarvis, what time is it", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Please switch to light mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis who programmed you for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Kindly stop music", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Could you unmute volume please", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "I want you to check battery immediately", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Please check raspberry pi sensors for me", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis pause music for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis louder", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Pause music please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "I want you to put the computer to sleep please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Kindly do you like pizza immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, start google browser now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Can you do you like pizza now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please you have done wrong calculation now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you mute the sound", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Secure the mac", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "System, mute audio", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you play the next one now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "System, pause media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Can you increase volume", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Can you unmute audio for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Kindly dark mode on", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "I want you to open youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Jarvis what is my battery now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Kindly empty trash immediately", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Kindly launch google immediately", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Could you open google", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Kindly unmute the volume now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Go back a song please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Please what is my heart rate now", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Please pause music", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Could you quieter for me", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "I want you to air quality now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "System, exit system for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Jarvis, power level now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Please lock computer immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis go back a song please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, light mode on now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Are you there jarvis", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, mute the sound immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Can you next track please", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis, you have done wrong calculation please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, launch youtube immediately", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Can you health report please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Hey jarvis, shut down please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Jarvis, shut down", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Could you what day is it please", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Empty trash immediately", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Full volume please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Hello please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Mute the volume", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "I want you to lock the screen immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis, go to sleep for me", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Hey jarvis, air quality", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "I want you to take screenshot", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Can you air quality now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "System, what time is it", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hey jarvis, unmute the volume", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis, switch to dark mode for me", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Jarvis greetings please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "What is my heart rate immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Hey jarvis, mute the sound please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Kindly air quality now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Kindly stop music now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly switch to dark mode now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Jarvis volume down to zero please", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Please play media for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Shut down now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Hey jarvis, blah blah blah for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you launch youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Please skip song for me", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis start google browser now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Room temperature", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis, check raspberry pi sensors", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Full volume now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis, quieter now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Hey jarvis, clean the trash please", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Please turn on dark mode", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Please mute audio immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Hey jarvis, testing test please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, previous song immediately", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Please volume down to zero", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Please how am i doing physically for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Kindly empty recycle bin please", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "I want you to play last track now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Could you play some youtube for me", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Could you pause media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly decrease volume immediately", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Could you take a screenshot now", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Can you exit system immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, turn it up immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Can you volume down to zero immediately", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "What is my battery", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Search wikipedia please", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Hey jarvis, capture screen now", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Please secure the mac", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Go back a song now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "I want you to goodbye please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, do you have the time", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Could you do you like pizza please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you play media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "I want you to capture screen immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Could you health report for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "I want you to sleep system now", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Open google for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Kindly disable dark mode please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Hey jarvis, unmute the volume now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Hey jarvis, unmute the volume for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis, empty trash now", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Please search wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Hey jarvis, mute audio now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you next song now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Can you empty trash please", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Kindly hello for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, launch google now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis dark mode on now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Please unmute the volume", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Could you open wikipedia now", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Could you go to sleep now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, who is your maker please", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "I want you to room temperature", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Please turn it down immediately", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis switch to dark mode", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Could you identify yourself now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Could you what day is it", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Turn it all the way up now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "System, decrease volume now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Hey jarvis, open wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Jarvis who is the president please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you unmute the volume", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Could you volume 100 please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Please empty recycle bin now", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "I want you to launch wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "I want you to pause music please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly max volume for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Skip song for me", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "I want you to who created you for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Kindly play the next one immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis, greetings immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "I want you to empty recycle bin", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Kindly skip song", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Hey jarvis, who programmed you immediately", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Can you power level please", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "I want you to this is bad now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, enable dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Hey jarvis, what color is the sky immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you go to sleep", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Kindly turn on dark mode for me", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Could you enable dark mode immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "System, silence for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Please what is your name immediately", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "System, who is the president now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please good morning please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Hey jarvis, go back a song for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Can you pause music please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Can you what is the temperature now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis, turn it down", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Volume up for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "I want you to play the next one please", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Can you who is the president", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you who programmed you", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Can you turn it up", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis pause media immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis tell me the time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "I want you to search wikipedia for me", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Please testing test now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you increase volume please", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Can you switch to light mode", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "System, what day is it", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis light mode on now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Could you start google browser for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis, sleep mac please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you wake up for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Kindly empty recycle bin for me", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "I want you to put the computer to sleep", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Jarvis tell me the time", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Please quit now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "I want you to launch wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Please stop music", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Can you go to sleep now", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Can you what color is the sky immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, go back a song now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Hey jarvis, current date now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Can you quieter please", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Hey jarvis, quit immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "I want you to sleep system immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "System, who programmed you", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "System, shut down", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, disable dark mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Hi jarvis immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, unmute volume please", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis unmute the volume for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Volume up please", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Please check my vitals for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Please lock computer please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Kindly mute the sound immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis, empty trash for me", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Jarvis, current time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Could you what is the date", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis, who is your maker immediately", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Jarvis, switch to light mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Tell me the date for me", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Could you who created you", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Could you pause music for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Hey jarvis, are you there jarvis", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, you have done wrong calculation please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Air quality", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "I want you to go back a song now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Could you turn on dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "I want you to silence please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you i am angry please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, get environment data please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "I want you to volume up", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "System, go to sleep", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, mute the volume immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Kindly enable dark mode immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Could you play music for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Please turn it all the way up for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis, put the computer to sleep", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "System, sleep system immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "I want you to turn the sound on immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Tell me the time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hey jarvis, save the screen for me", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Kindly turn it all the way up for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "I want you to tell me the date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis health report for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Take a screenshot", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "I want you to secure the mac for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Kindly shut down please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Kindly go to sleep now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Kindly tell me the time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hey jarvis, next song for me", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis who are you immediately", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Jarvis, stop music immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Could you next song", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Could you next song immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis, save the screen", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Can you launch youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Hey jarvis, unmute audio immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "I want you to min volume for me", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "System, who are you", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Jarvis, what is the date please", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Could you how do i cook pasta", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please full volume immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "System, previous song for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Kindly next song for me", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Kindly previous song", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Could you launch wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Could you mute volume for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Hey jarvis, lock computer for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis, silence", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "System, switch to dark mode now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Jarvis this is bad for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please who created you please", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Could you you have done wrong calculation now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, turn the sound on immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Can you unmute volume please", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis how do i cook pasta for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, what is the meaning of life please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis who are you now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "I want you to search wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Could you you are wrong", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please mute volume for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Can you play last track please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "System, increase volume for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Kindly tell me the date please", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Hey jarvis, max volume immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis, sleep system", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "System, quit now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Play media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis, turn the sound on", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "I want you to air quality for me", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Kindly room temperature for me", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Could you who is your maker please", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Can you identify yourself please", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "System, go to sleep for me", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you maximum volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis, what is my heart rate now", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Jarvis, turn off dark mode for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Could you tell me about yourself", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Hey jarvis, switch to light mode immediately", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Can you current time", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Please wake up for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Please get environment data for me", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis enable dark mode immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Kindly how am i doing physically for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "I want you to next track immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Please light mode on please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Can you previous track please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, greetings", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Could you tell me the date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "I want you to enable dark mode for me", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Could you wake up immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, unmute the volume please", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Please do you like pizza", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, tell me the date", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis who are you please", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Kindly hello immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Hey jarvis, are you there jarvis immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Can you turn it all the way up please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Kindly you have done wrong calculation immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis health report please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "System, go back a song please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Hey jarvis, previous track please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis play media now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "I want you to volume down to zero immediately", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Kindly who are you for me", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Kindly shut down for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Hey jarvis, decrease volume please", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "I want you to previous song immediately", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Kindly exit system please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Could you disable dark mode for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis volume up now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Hey jarvis, go to sleep please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "I want you to who is the president for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you minimum volume for me", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis what is the date for me", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Hey jarvis, volume down to zero now", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Please volume 100 for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "System, sleep mac immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you play media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis, light mode on", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "I want you to capture screen now", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Jarvis put the computer to sleep please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Check my vitals immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Could you pause music", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly how am i doing physically", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "I want you to switch to dark mode for me", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "I want you to power level for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Hey jarvis, who created you please", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Jarvis, open youtube for me", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Kindly tell me a joke", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you what is the temperature for me", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "System, shut down immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Kindly stop music please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis, play media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Hey jarvis, identify yourself", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Hey jarvis, google please please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "I want you to shut down", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Save the screen", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Can you who programmed you for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Could you health report immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "I want you to volume 100", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis, quieter immediately", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Kindly empty recycle bin immediately", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Hey jarvis, tell me a joke", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you what is your name for me", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Jarvis you are wrong", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to how do i cook pasta for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to play last track", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Please blah blah blah please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you play some youtube", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Can you next song immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Can you search wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Jarvis, volume down to zero", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Can you mute audio for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Hey jarvis, go to sleep please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Jarvis, next song now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Hey jarvis, check my vitals immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Can you how do i cook pasta please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to lock mac immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Kindly what is the temperature", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis, switch to light mode please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Could you this is bad immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Open wikipedia now", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "I want you to pause media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis play music", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly what is the date please", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis unmute volume now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis mute the volume now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "I want you to exit system immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "I want you to launch youtube immediately", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Jarvis, who is the president", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Decrease volume", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Could you dark mode on immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Jarvis are you there jarvis", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Can you tell me the date for me", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Please check battery for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Can you unmute volume for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "System, wake up immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, play last track for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, tell me the time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Please next song now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Could you quit now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Kindly play last track immediately", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, play music now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis, who is the president immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please read my pulse for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Good morning immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Kindly pause media for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis, sleep mac now", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Google please immediately", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "I want you to what is the date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Silence immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you open wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Can you next track immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "What day is it please", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Kindly volume down to zero please", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Hey jarvis, who programmed you", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "System, what color is the sky immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, turn it down immediately", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Volume down to zero", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "I want you to open youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Can you dark mode on please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Can you room temperature please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "What color is the sky please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, this is bad now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis room temperature for me", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Can you who are you immediately", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Can you wake up now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "I want you to you have done wrong calculation please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly dark mode on now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "I want you to turn off dark mode please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "I want you to lock computer now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "System, what is your name for me", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Please turn off dark mode please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Hey jarvis, who are you now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "I want you to previous track immediately", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Please turn the sound on for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis full volume please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Can you current time for me", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Can you do you like pizza immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly this is bad immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Room temperature now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Kindly put the computer to sleep now", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Jarvis louder now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis, tell me about yourself now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Can you testing test immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to turn on dark mode now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Jarvis, unmute volume immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Hey jarvis, mute audio please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "System, enable dark mode now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "System, check my vitals immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Jarvis, save the screen now", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Could you air quality immediately", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Please launch youtube", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Jarvis, take screenshot for me", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Jarvis, tell me a joke for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, previous track now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "System, previous track now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, mute audio for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Identify yourself please", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Kindly check my vitals for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Please maximum volume for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis, go to sleep", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Kindly volume up please", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Can you you are wrong", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Mute audio immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis you have done wrong calculation immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you do you like pizza now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly blah blah blah", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, go to sleep immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Greetings for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Hey jarvis, this is bad immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you turn off dark mode for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis play some youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Could you greetings please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Please what is the meaning of life", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you do you like pizza for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, check battery for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Hey jarvis, lock mac now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "I want you to switch to light mode", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Hey jarvis, volume 100 for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Turn on dark mode", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Could you next track", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis, current date now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Hey jarvis, disable dark mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Hey jarvis, enable dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "I want you to blah blah blah", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, battery percentage immediately", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Hey jarvis, mute the volume immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis volume 100", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "I want you to search wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Can you lock mac please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis launch google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis, turn off dark mode please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Kindly louder immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Turn it up now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "System, unmute audio", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis, hi jarvis immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis silence for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you exit system now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, search wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Jarvis tell me a joke immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you power level", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Could you tell me a joke for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please maximum volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Kindly how do i cook pasta please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to increase volume for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis testing test immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you air quality please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Tell me the time now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "I want you to how am i doing physically", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "System, lock the screen for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "System, volume up now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis turn the sound on immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Please minimum volume please", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis lock mac please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Power level for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Kindly goodbye for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Can you lock computer please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis, who is the president for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly max volume now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Hey jarvis, next track immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis, open google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, room temperature immediately", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis, take a screenshot immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "What is your name for me", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "System, check raspberry pi sensors please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "I want you to how do i cook pasta immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly exit system now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Kindly what time is it now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "I want you to previous song for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Kindly play the next one now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "System, lock mac immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis, get environment data", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Could you search wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Do you have the time please", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hey jarvis, what is my heart rate please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Could you what is my heart rate please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Start google browser please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Could you take screenshot now", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Can you who created you please", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Please tell me about yourself for me", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Hey jarvis, quieter", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Hey jarvis, exit system", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Can you what is your name", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Check my vitals for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Jarvis pause media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly this is bad for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you open google now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Could you quieter please", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, what is the temperature now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Previous track", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Can you check raspberry pi sensors immediately", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Open wikipedia for me", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "I want you to hi jarvis now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, light mode on please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Hey jarvis, open wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "System, get environment data", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Can you who are you now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "System, next track for me", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Can you mute audio immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "I want you to turn the sound on for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Can you i am angry", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis play the next one for me", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis, check my vitals please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Kindly start google browser now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Can you play the next one", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis, volume down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "I want you to sleep mac please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "I want you to empty trash for me", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Could you what is the date now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis mute audio", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis, volume up now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis, this is bad immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please min volume for me", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis, max volume now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Can you max volume now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "I want you to health report now", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Who is your maker now", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Current time please", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Kindly tell me a joke immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to mute volume please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis, save the screen immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Go to sleep immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Kindly who is your maker please", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "I want you to take a screenshot immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Jarvis, increase volume for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis power level now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Could you you are wrong immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to hello please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Could you volume down to zero for me", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis light mode on", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "System, air quality please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis you have done wrong calculation", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, turn it up immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "I want you to next track now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Can you check raspberry pi sensors now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Can you open google now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "System, tell me about yourself", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "I want you to lock computer please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "What time is it for me", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Please mute the volume now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Please full volume for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "System, check battery please", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Can you tell me about yourself", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Hey jarvis, pause media now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Hey jarvis, save the screen", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Kindly this is bad", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, google please for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Please google please now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis, good morning for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Could you this is bad please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, previous song immediately", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Pause media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Please previous track", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, light mode on immediately", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Unmute volume for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "I want you to secure the mac immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Could you this is bad", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to stop music immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Please mute the sound immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you what time is it now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Lock mac for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Quit", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Jarvis secure the mac immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Hey jarvis, turn off dark mode", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "What is your name now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Jarvis play the next one immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis what color is the sky immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis air quality now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "I want you to turn it down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "I want you to turn it up please", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Kindly what is my battery now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Jarvis secure the mac", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Hey jarvis, light mode on for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Can you tell me a joke for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis empty recycle bin for me", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Play some youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Jarvis, next song", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Can you turn on dark mode for me", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Jarvis dark mode on immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Jarvis greetings for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis open google now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis lock the screen for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Kindly play music immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis turn it down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Can you take screenshot please", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Jarvis, play some youtube for me", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Current date now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "You are wrong please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, play last track for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Please launch google immediately", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis, unmute the volume", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Please louder now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Hey jarvis, check my vitals for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Please decrease volume", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "System, who is your maker for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Hey jarvis, current time now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "System, testing test for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, what is my heart rate now", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Play media immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Can you louder for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "What is my battery immediately", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Please volume down for me", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Kindly volume 100 for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Kindly who programmed you", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Skip song immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis who is the president now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly current time please", "output": "[ACTION:GET_TIME]"}
+{"instruction": "System, how do i cook pasta for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to blah blah blah please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly previous track now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Can you min volume please", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis how am i doing physically", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "System, pause music immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Please what is the date for me", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Could you goodbye now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Kindly who programmed you for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Jarvis, turn it all the way up", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "I want you to current date please", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis, unmute audio immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "I want you to you are wrong for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, check my vitals please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Kindly what is my battery", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Jarvis, who created you now", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Kindly decrease volume now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, battery percentage for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Could you open google for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, maximum volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "System, maximum volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "I want you to start google browser for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, next track now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Hey jarvis, google please for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Could you turn it up immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis go to sleep immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Please this is bad please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis current time now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hey jarvis, empty trash for me", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Please what day is it now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Capture screen", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "System, current date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Hey jarvis, skip song now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis, next song immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "System, volume up", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "System, do you have the time now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Kindly stop music immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis, volume down for me", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "System, good morning for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis dark mode on for me", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Hey jarvis, tell me about yourself now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Enable dark mode now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Hey jarvis, volume down to zero", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "System, next track please", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "System, next track now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "I want you to sleep mac now", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you min volume please", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis, enable dark mode", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Please who are you now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Please sleep mac immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "I want you to open google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "System, battery percentage for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "System, play the next one now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Kindly skip song now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis next track", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Jarvis, disable dark mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "I want you to lock mac now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "System, light mode on", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "System, how am i doing physically now", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Can you turn the sound on for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis google please please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "I want you to health report please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Please quieter for me", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Kindly tell me the time for me", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Jarvis what time is it please", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Jarvis do you have the time", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hey jarvis, stop music please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Lock the screen now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Hey jarvis, tell me about yourself", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Could you power level", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Do you have the time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Jarvis go to sleep", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Kindly maximum volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Open wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Kindly capture screen", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Kindly current time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Could you take screenshot", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Could you clean the trash immediately", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Please are you there jarvis immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, get environment data immediately", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Could you room temperature", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Kindly save the screen please", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Please silence immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "System, what is the meaning of life immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, sleep mac immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Please what is the meaning of life now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, who programmed you now", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Could you air quality now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Kindly silence please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "System, mute the sound for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Tell me about yourself", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Jarvis clean the trash now", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Jarvis, wake up please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Kindly what is my battery for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Could you switch to light mode", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Goodbye please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Next track please", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "I want you to min volume now", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Please decrease volume please", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, good morning", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "I want you to unmute audio immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Put the computer to sleep", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "System, tell me the time please", "output": "[ACTION:GET_TIME]"}
+{"instruction": "I want you to health report", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Can you room temperature now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "System, launch wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "System, i am angry for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you what time is it", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Kindly turn the sound on immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Can you do you have the time now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hey jarvis, play media", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Please air quality", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Can you who created you immediately", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "I want you to unmute volume now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Could you go back a song for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, disable dark mode immediately", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Kindly turn it down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Can you launch youtube immediately", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Jarvis take screenshot now", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Could you who programmed you for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Kindly turn it up now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "System, lock the screen", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "I want you to lock the screen", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Could you google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, exit system for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Jarvis, launch wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Could you read my pulse for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Lock computer now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis take a screenshot now", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "System, secure the mac for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Can you what is my heart rate immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "I am angry immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please who is the president", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly turn it all the way up now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Could you sleep system", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Jarvis, turn on dark mode for me", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Could you battery percentage for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Can you goodbye immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Can you volume down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Please do you like pizza now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you lock mac please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis, hi jarvis please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Kindly sleep mac immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Please mute audio now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Please full volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis who is your maker", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Could you read my pulse immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Read my pulse for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Jarvis, do you have the time now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Kindly turn off dark mode for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis switch to light mode", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "System, play music immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "I want you to quieter immediately", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Could you min volume for me", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Kindly light mode on please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis pause music please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "System, play music now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "System, current time please", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hey jarvis, dark mode on please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "I want you to minimum volume now", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Hey jarvis, who is your maker", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Kindly i am angry now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please volume down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "System, goodbye immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Please mute the volume for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Kindly minimum volume now", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Can you skip song please", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "I want you to turn off dark mode", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "System, open youtube immediately", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Can you tell me the time for me", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Jarvis, capture screen immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Please clean the trash immediately", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Hey jarvis, volume 100", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Can you take a screenshot immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Jarvis turn it up now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Kindly tell me the time", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Please health report immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Could you launch youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Hey jarvis, louder now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Can you you have done wrong calculation for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, previous song now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "System, what is my heart rate immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Identify yourself now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Kindly start google browser immediately", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Can you dark mode on", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "I want you to hi jarvis for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Please play last track please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis check battery now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Kindly you are wrong please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please are you there jarvis for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, clean the trash for me", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Hey jarvis, who are you immediately", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Hey jarvis, volume down for me", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, quit please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Jarvis, launch youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Could you capture screen", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "System, read my pulse immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Please get environment data", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Could you what is the meaning of life", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please goodbye for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Could you what is my battery now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Turn the sound on immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Could you who is your maker for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Jarvis, turn it up now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Could you go to sleep for me", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you hello now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Could you go back a song immediately", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Kindly search wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Minimum volume please", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis next song", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Could you unmute audio", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "System, check my vitals for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Could you what color is the sky for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Quit for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, increase volume please", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "I want you to pause music now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "System, unmute audio for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Could you mute the sound for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Please save the screen immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Could you turn it down", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "System, what time is it now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Room temperature for me", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "System, what day is it please", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Kindly take screenshot for me", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Hey jarvis, open youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Please good morning now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Please sleep system please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Jarvis, goodbye now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Jarvis, launch youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Please mute volume now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Hey jarvis, play music", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "I want you to shut down immediately", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, how am i doing physically please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Can you launch google now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, sleep system for me", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "System, who is the president please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly open youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Can you good morning for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Please switch to dark mode immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "I want you to what is the date", "output": "[ACTION:GET_DATE]"}
+{"instruction": "System, search wikipedia now", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Kindly louder for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Please who is the president please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you quieter now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis what day is it", "output": "[ACTION:GET_DATE]"}
+{"instruction": "System, unmute volume", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis, skip song now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Please switch to dark mode now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Jarvis air quality please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Hey jarvis, battery percentage", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Can you what day is it for me", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Can you min volume for me", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "I want you to exit system for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Could you unmute audio now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis, skip song", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Hey jarvis, louder for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Please i am angry please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to get environment data now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Kindly go to sleep please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Could you take a screenshot", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Please turn it all the way up", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "I want you to who programmed you", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Could you sleep mac for me", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Please do you have the time", "output": "[ACTION:GET_TIME]"}
+{"instruction": "System, play some youtube for me", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Jarvis turn off dark mode for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Kindly goodbye please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Please sleep mac please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Can you volume down to zero please", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis what is my battery please", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Can you start google browser now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis, what time is it", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hey jarvis, turn off dark mode immediately", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Please save the screen please", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Jarvis, play music", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Turn it down", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, check my vitals immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Kindly open youtube for me", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Volume up", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Kindly tell me the date for me", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Could you how do i cook pasta for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, testing test please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, hello", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, what is your name for me", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Jarvis mute the sound please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Please what color is the sky immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, switch to dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "System, check my vitals", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "System, play media immediately", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Volume 100 for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Could you current date now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Can you pause music for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "System, blah blah blah", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to good morning for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis mute volume now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "System, switch to dark mode", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Kindly previous track please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Start google browser", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Could you what time is it immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Jarvis i am angry please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, good morning", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Light mode on for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Kindly quieter now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Stop music now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Mute volume for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Can you what is the meaning of life immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to play media for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis, battery percentage now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "System, what is the date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Kindly play some youtube", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "I want you to unmute audio", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Clean the trash for me", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Launch google immediately", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Kindly lock mac for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis disable dark mode for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis play last track for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "System, open youtube for me", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Kindly who created you for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Please how do i cook pasta now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, i am angry immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you capture screen now", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "System, turn the sound on immediately", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Please min volume", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "System, launch youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Previous song", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis pause media now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Hey jarvis, turn on dark mode immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Kindly do you like pizza please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please launch youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "System, minimum volume", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Please go to sleep", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Can you tell me a joke please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, testing test immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please you are wrong immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, lock computer please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "I want you to play the next one", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Could you lock computer", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "System, check battery now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "I want you to check battery", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Testing test", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Empty recycle bin immediately", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Please sleep system", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Jarvis secure the mac now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "I want you to increase volume", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "System, go to sleep now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Jarvis, what is my battery", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Power level", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Can you secure the mac for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis, pause media please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "I want you to what time is it", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Jarvis wake up now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Kindly do you have the time please", "output": "[ACTION:GET_TIME]"}
+{"instruction": "System, open google immediately", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, read my pulse", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "System, save the screen immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Hey jarvis, how am i doing physically please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Can you play music now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Can you max volume for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Could you tell me the date", "output": "[ACTION:GET_DATE]"}
+{"instruction": "I want you to max volume for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis switch to light mode immediately", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Can you mute the volume please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "I want you to max volume please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Could you previous song immediately", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, play some youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "System, tell me a joke for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Disable dark mode", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis secure the mac for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Please mute audio please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis louder immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis enable dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Please testing test for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis check raspberry pi sensors please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis what is the meaning of life for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you play last track now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Kindly greetings for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Hey jarvis, blah blah blah", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "I want you to full volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Who is your maker", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Do you like pizza now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please search wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Turn off dark mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Kindly open wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Check battery please", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Jarvis, full volume now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis quit now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "I want you to current time now", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Please how do i cook pasta please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Increase volume for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Can you go to sleep for me", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Kindly tell me a joke for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis decrease volume now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis increase volume", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Please identify yourself please", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Launch wikipedia for me", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Please go to sleep immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "I want you to turn the sound on now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "System, check raspberry pi sensors now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis do you have the time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "I want you to turn it all the way up", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Kindly lock computer immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Hey jarvis, minimum volume now", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Kindly blah blah blah please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please volume 100 please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Please empty recycle bin immediately", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Jarvis lock the screen", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis, you are wrong for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly mute the volume please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis open wikipedia please", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Please next track immediately", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Please open google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, launch wikipedia for me", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Jarvis, what is your name please", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Current date", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Could you max volume now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Please turn off dark mode", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "I want you to launch youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Jarvis empty trash", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Can you turn on dark mode please", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "I want you to disable dark mode immediately", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Louder now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Could you previous track please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Hey jarvis, start google browser", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Jarvis, lock computer please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Kindly read my pulse for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Hey jarvis, unmute the volume please", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Can you volume down for me", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Can you who is your maker for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Please current date immediately", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Can you maximum volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Kindly check raspberry pi sensors now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Jarvis lock computer for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis testing test for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis sleep mac", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you check battery for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "I want you to launch google for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Can you put the computer to sleep please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Jarvis minimum volume immediately", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Could you disable dark mode immediately", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Kindly take screenshot please", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Are you there jarvis for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis tell me the date", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Hey jarvis, you have done wrong calculation for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you google please for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "System, what time is it immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Hello now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Please what is my heart rate for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Hey jarvis, tell me the time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Could you good morning", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Hey jarvis, greetings immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, minimum volume for me", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "System, you have done wrong calculation immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, silence now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis turn it up immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis power level for me", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "System, start google browser for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "I want you to play some youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Kindly what day is it", "output": "[ACTION:GET_DATE]"}
+{"instruction": "What color is the sky", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly turn on dark mode immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Unmute audio now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Could you sleep mac immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you what is the meaning of life for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you what is my battery", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Kindly what is your name please", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Could you get environment data for me", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Kindly turn the sound on for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Mute the volume now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Please launch youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Can you volume down please", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, tell me the date please", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Kindly testing test for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, unmute the volume now", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Hey jarvis, who are you", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Jarvis how am i doing physically please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Please turn it up now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis skip song now", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Hey jarvis, identify yourself immediately", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Please what is my battery immediately", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Please quit for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Can you turn it down please", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis mute the sound", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you what is the meaning of life please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "System, are you there jarvis", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "I want you to volume down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Can you what is your name please", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "System, quieter immediately", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, stop music please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly clean the trash now", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Can you read my pulse", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Kindly previous song now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis battery percentage immediately", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Can you read my pulse immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Could you enable dark mode now", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Can you do you have the time for me", "output": "[ACTION:GET_TIME]"}
+{"instruction": "I want you to tell me about yourself for me", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Hey jarvis, launch google", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, mute volume now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Check battery immediately", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Hey jarvis, launch wikipedia please", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Can you who created you now", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Kindly go to sleep for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Please who are you please", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Can you turn it all the way up", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Hey jarvis, volume up for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis current time immediately", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Jarvis exit system for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Please empty recycle bin please", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "I want you to quit please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "System, full volume immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Lock the screen for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Blah blah blah please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you you are wrong please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly min volume now", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "I want you to mute volume now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you louder immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Hey jarvis, increase volume now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Kindly shut down now", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Can you mute audio please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Kindly put the computer to sleep immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Can you shut down please", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Can you open youtube please", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "What is the meaning of life for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Can you enable dark mode immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Kindly turn off dark mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis, what is the meaning of life now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, identify yourself", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Hey jarvis, health report immediately", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "System, take a screenshot for me", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "I want you to turn on dark mode for me", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Kindly go to sleep please", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Kindly play some youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Could you check my vitals please", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Could you stop music for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "System, min volume immediately", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Hey jarvis, do you like pizza for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to light mode on please", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Could you launch google now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hi jarvis please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, what day is it", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Kindly exit system", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Kindly what color is the sky now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, volume 100 immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Can you turn on dark mode immediately", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "System, what is the temperature please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Please what is the temperature immediately", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Play music", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Hey jarvis, what is the temperature please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "System, unmute the volume", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Jarvis, lock the screen", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "What is your name", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Could you google please now", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, this is bad", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "What day is it", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis volume down for me", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis what is my heart rate now", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Are you there jarvis immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, how do i cook pasta please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please play the next one please", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "System, blah blah blah immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, what time is it please", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Jarvis empty trash immediately", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Hey jarvis, maximum volume immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis battery percentage now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "System, clean the trash now", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Can you wake up immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis, go back a song", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, mute the volume for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis, tell me about yourself immediately", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "I want you to maximum volume please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis good morning for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Can you put the computer to sleep", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Jarvis, unmute the volume for me", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Could you volume up now", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis, how do i cook pasta immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Quieter", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "I want you to clean the trash immediately", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Please volume down please", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, increase volume", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "System, mute volume immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis health report now", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "System, google please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, what is the meaning of life now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please who created you immediately", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Jarvis play last track please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "I want you to volume up for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis, increase volume immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "System, empty trash", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Could you who is your maker immediately", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Jarvis, what day is it for me", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Jarvis, search wikipedia for me", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Please who is the president immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, hello immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Can you go back a song for me", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis, louder", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Tell me about yourself immediately", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Jarvis capture screen immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Can you increase volume for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Hey jarvis, empty recycle bin now", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "You have done wrong calculation for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "You have done wrong calculation immediately", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis, mute volume please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis tell me a joke for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please air quality now", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Hey jarvis, volume down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis check raspberry pi sensors immediately", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Can you tell me the time", "output": "[ACTION:GET_TIME]"}
+{"instruction": "Can you play music please", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "System, capture screen now", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Jarvis lock the screen immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Kindly go back a song please", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis unmute the volume please", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "System, sleep mac", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Could you get environment data", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Hey jarvis, play music now", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Jarvis wake up immediately", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Kindly silence for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you empty recycle bin please", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Please take screenshot", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Jarvis, tell me a joke please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please wake up", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Can you volume up immediately", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Jarvis play some youtube", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "I want you to mute the volume now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "System, max volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Kindly how do i cook pasta for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Hey jarvis, silence", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Please you are wrong for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to what is my heart rate for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Could you what is my heart rate for me", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Jarvis put the computer to sleep", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Play last track", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis room temperature please", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Hey jarvis, what is your name now", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Can you lock the screen please", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Previous song immediately", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Please tell me the date", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Could you go to sleep now", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "System, identify yourself please", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Can you volume down to zero for me", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "I want you to launch youtube for me", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Hey jarvis, mute audio immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "System, switch to light mode for me", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Kindly who programmed you please", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Jarvis, volume up for me", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Kindly minimum volume for me", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Please hi jarvis now", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Can you how am i doing physically", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Can you louder", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "I want you to max volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Could you start google browser please", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Please clean the trash please", "output": "[ACTION:EMPTY_TRASH]"}
+{"instruction": "Kindly minimum volume please", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Kindly maximum volume now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Please go to sleep for me", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "Please stop music for me", "output": "[ACTION:PLAY_PAUSE]"}
+{"instruction": "Kindly maximum volume immediately", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "I want you to battery percentage please", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Jarvis exit system", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "Hey jarvis, min volume", "output": "[ACTION:MIN_VOLUME]"}
+{"instruction": "Jarvis launch wikipedia please", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Jarvis, read my pulse now", "output": "[ACTION:GET_HEALTH_REPORT]"}
+{"instruction": "Can you decrease volume", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Kindly current date now", "output": "[ACTION:GET_DATE]"}
+{"instruction": "Could you launch wikipedia", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Jarvis, blah blah blah for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you capture screen immediately", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Can you volume up please", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "Save the screen for me", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Can you lock computer now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis what color is the sky for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Could you mute volume now", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Could you turn it down now", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, full volume please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Could you open youtube now", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Hey jarvis, sleep mac immediately", "output": "[ACTION:SLEEP_MAC]"}
+{"instruction": "What is the meaning of life", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Goodbye for me", "output": "[ACTION:SHUTDOWN]"}
+{"instruction": "I want you to silence for me", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Kindly max volume", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Please battery percentage now", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Please who is your maker for me", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Can you turn it all the way up now", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis, greetings for me", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "I want you to decrease volume immediately", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "I want you to previous song now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "Jarvis check battery", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Kindly disable dark mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Lock mac now", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Jarvis next song please", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "Kindly open google immediately", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Hey jarvis, room temperature for me", "output": "[ACTION:GET_SENSOR_DATA]"}
+{"instruction": "Lock the screen immediately", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "I want you to what color is the sky please", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Please unmute volume", "output": "[ACTION:UNMUTE_VOLUME]"}
+{"instruction": "Can you i am angry now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Jarvis launch wikipedia immediately", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Jarvis, turn it up please", "output": "[ACTION:VOLUME_UP]"}
+{"instruction": "System, are you there jarvis please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, hi jarvis", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, you have done wrong calculation for me", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "Kindly identify yourself", "output": "I am JARVIS-OS, a local intelligent AI assistant designed to automate your personal environment."}
+{"instruction": "Please full volume please", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Please mute the volume please", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Jarvis, blah blah blah now", "output": "I am a local system automation AI. I am primarily programmed to control your OS and hardware, and cannot answer general knowledge queries."}
+{"instruction": "I want you to maximum volume for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Jarvis open wikipedia now", "output": "[ACTION:OPEN_WIKIPEDIA]"}
+{"instruction": "Hey jarvis, skip song for me", "output": "[ACTION:NEXT_TRACK]"}
+{"instruction": "I want you to mute the sound immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Hey jarvis, full volume for me", "output": "[ACTION:MAX_VOLUME]"}
+{"instruction": "Can you who programmed you immediately", "output": "I was developed by my creator as a final year engineering project."}
+{"instruction": "Can you previous track now", "output": "[ACTION:PREV_TRACK]"}
+{"instruction": "I want you to volume down", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Jarvis, take a screenshot", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Hey jarvis, power level please", "output": "[ACTION:GET_BATTERY]"}
+{"instruction": "Please start google browser for me", "output": "[ACTION:OPEN_GOOGLE]"}
+{"instruction": "Can you capture screen for me", "output": "[ACTION:TAKE_SCREENSHOT]"}
+{"instruction": "Hey jarvis, quieter immediately", "output": "[ACTION:VOLUME_DOWN]"}
+{"instruction": "Dark mode on for me", "output": "[ACTION:DARK_MODE_ON]"}
+{"instruction": "Kindly hi jarvis", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Are you there jarvis please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "Jarvis mute the sound immediately", "output": "[ACTION:MUTE_VOLUME]"}
+{"instruction": "Kindly secure the mac for me", "output": "[ACTION:LOCK_MAC]"}
+{"instruction": "Can you open youtube", "output": "[ACTION:OPEN_YOUTUBE]"}
+{"instruction": "Good morning please", "output": "Hello! All systems are online. How can I assist you today?"}
+{"instruction": "System, switch to light mode now", "output": "[ACTION:DARK_MODE_OFF]"}
+{"instruction": "Jarvis, light mode on please", "output": "[ACTION:DARK_MODE_OFF]"}

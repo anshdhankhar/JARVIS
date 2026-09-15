@@ -1,0 +1,30 @@
+# Git Ignore for Project Jarvis
+.DS_Store
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.db
+Jarvis_Log.txt
+Poster_Template.docx
+poster/amity_logo_horizontal.png
+poster/tech_genesis_logo.png
+poster/jarvis_architecture_diagram.png
+poster/jarvis_hud_interface.png
+poster/ai_performance_surface_plot.png
+# Keep the design, but ignore local binary copies if needed.
+# Actually, the user probably wants the poster images on GitHub. 
+# So I'll just ignore common junk.
+
+# Python
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
+
+# Logs
+*.txt
+!README.md
